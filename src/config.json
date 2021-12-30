@@ -1,0 +1,6 @@
+{
+    "models":[{"id":0,"name":"model0"},{"id":1,"name":"model1"},{"id":2,"name":"model2"}],
+    "thumbnails":[{"id":0,"name":"_thumb0.png"},{"id":1,"name":"_thumb1.png"},{"id":2,"name":"_thumb2.png"}],
+    "max_epoc":150,
+    "epoc_step_count":1
+}
